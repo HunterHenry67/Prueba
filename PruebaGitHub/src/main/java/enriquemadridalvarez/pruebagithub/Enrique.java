@@ -11,6 +11,10 @@ package enriquemadridalvarez.pruebagithub;
 public class Enrique {
     String nombre = "asado";
     int edad;
+    double altura;
+    String descripcion;
+    String personalidad;
+    
 
     public Enrique(int edad) {
         this.edad = edad;
